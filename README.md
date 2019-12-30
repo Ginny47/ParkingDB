@@ -1,2 +1,2 @@
 # ParkingDB
-SJSU (San Jose State University) Parking Database Management System to analyze root-cause parking difficulties.
+Sample SJSU (San Jose State University) Parking Database Management System to analyze possible root-causes of parking difficulties.
